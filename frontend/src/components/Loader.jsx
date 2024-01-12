@@ -1,7 +1,7 @@
 import React from "react";
 
 function Loader() {
-  return <div>Loading tweets...</div>;
+  return <div className="p-4 text-center loader">Loading tweets...</div>;
 }
 
 export default Loader;

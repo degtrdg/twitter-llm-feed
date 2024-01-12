@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import Error from "./Error";
+import { fetchTweetsMock } from "../fetchTweetsMock";
 import Tweet from "./Tweet";
 import Loader from "./Loader";
 import axios from "axios";
@@ -20,30 +22,64 @@ const fakeTweets = [
   },
 ];
 
+// function TweetList() {
+//   const [tweets, setTweets] = useState([]);
+//   const [loading, setLoading] = useState(true);
+//   //   const [tweets, setTweets] = useState(fakeTweets);
+//   //   const [loading, setLoading] = useState(false); // Set to false since we're using fake data
+
+//   useEffect(() => {
+//     axios
+//       .get("/get-tweets")
+//       .then((response) => {
+//         setTweets(response.data);
+//         setLoading(false);
+//       })
+//       .catch((error) => console.error("Error fetching tweets:", error));
+//   }, []);
+
+//   if (loading) return <Loader />;
+
+//   return (
+//     <div className="tweet-list">
+//       {console.log(tweets)}
+//       {tweets.map((tweet) => (
+//         <Tweet key={tweet.id} data={tweet} />
+//       ))}
+//     </div>
+//   );
+// }
+
 function TweetList() {
-  const [tweets, setTweets] = useState([]);
-  const [loading, setLoading] = useState(true);
-  //   const [tweets, setTweets] = useState(fakeTweets);
-  //   const [loading, setLoading] = useState(false); // Set to false since we're using fake data
+  // const [tweets, setTweets] = useState([]);
+  const [tweets, setTweets] = useState(fakeTweets);
+  // const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
+
+  // Rest of the code...
 
   useEffect(() => {
-    axios
-      .get("/get-tweets")
-      .then((response) => {
-        setTweets(response.data);
+    fetchTweetsMock()
+      .then((data) => {
+        setTweets(data);
         setLoading(false);
       })
-      .catch((error) => console.error("Error fetching tweets:", error));
+      .catch((err) => {
+        setError(err.message);
+        setLoading(false);
+      });
   }, []);
 
   if (loading) return <Loader />;
+  if (error)
+    return <Error message={error} retry={() => window.location.reload()} />;
 
   return (
     <div className="tweet-list">
-      {console.log(tweets)}
-      {tweets.map((tweet) => (
-        <Tweet key={tweet.id} data={tweet} />
-      ))}
+      {tweets.length > 0
+        ? tweets.map((tweet) => <Tweet key={tweet.id} data={tweet} />)
+        : "No tweets to display"}
     </div>
   );
 }
