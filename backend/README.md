@@ -20,6 +20,14 @@ conda activate feed
 pip3 install -r requirements.txt
 ```
 
+## Download playwright
+
+```
+playwright install
+```
+
+Get chromium path from that install
+
 ## Running the server
 
 ```
@@ -27,4 +35,5 @@ python3 server.py
 ```
 
 ## Getting following list
+
 Navigate to your following list: https://twitter.com/{username}/following and run the `get_following_list.py` script. This will log the users you are following.

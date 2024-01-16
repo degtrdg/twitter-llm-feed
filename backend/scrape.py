@@ -55,7 +55,8 @@ async def main(tag: str):
     scraper = Scraper()
     await scraper.init_browser(
         "https://nitter.rawbit.ninja/", 
-        "/Users/tk541/Library/Caches/ms-playwright/chromium-1084/chrome-mac/Chromium.app/Contents/MacOS/Chromium"
+        # "/Users/tk541/Library/Caches/ms-playwright/chromium-1084/chrome-mac/Chromium.app/Contents/MacOS/Chromium"
+        "/Users/danielgeorge/Library/Caches/ms-playwright/chromium-1091/chrome-mac/Chromium.app/Contents/MacOS/Chromium"
     )
     posts = await scraper.get_user_timeline(tag)
     print(posts)

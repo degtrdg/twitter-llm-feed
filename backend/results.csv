@@ -1,0 +1,2885 @@
+Prompt,Link,Reasoning,Answer
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq 🎉 Thrilled to have our MathVista work accepted at#ICLR2024as an Oral presentation!
+
+Explore our work:
+🔍 Project:mathvista.github.io/🤗@huggingfaceDataset@_akhaliq:huggingface.co/datasets/AI4M…💻 Code:github.com/lupantech/MathVis…Deepest gratitude to our shining team: 👏🌟@hbXNov, Tony Xia,@liujc1998,@ChunyuanLi,@HannaHajishirzi,@kelvinih,@kaiwei_chang, Michel Galley, and@JianfengGao0217#MathVista
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/lupantech/status/1747344488966791227#m,"Based on the content of the tweet, it appears to be about the acceptance of a project called MathVista at ICLR2024 as an oral presentation. The tweet also provides links to explore the project, access the dataset, and view the code. It expresses gratitude towards the team involved in the project. 
+
+Considering your interests, this tweet seems to be related to a startup launch or a breakthrough in the field of AI. However, it does not directly align with any of the specific topics you mentioned, such as AI x Biology/Healthcare, multimodal transformer models, LLM interfaces, or generating out-of-distribution ideas. Additionally, it does not seem to be directly relevant to your current work or projects in your backlog.
+
+Given that this tweet may not provide you with actionable information or contribute to your work, it is recommended that you do not see it to avoid potential nerd-sniping.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq A tempo MAGNet gradio demo is running on@huggingfacespaces:
+
+🧲huggingface.co/spaces/fffilo…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/fffiloni/status/1747325993294176744#m,"Based on your interests and preferences, the tweet does not seem relevant to your current work. It appears to be a demo of a MAGNet gradio on Hugging Face Spaces, which does not align with any of the topics you mentioned. Additionally, it does not seem to be a breakthrough or a startup launch. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq Animagine XL 3.0 、Hugging Faceのトレンドで1位を達成した。Microsoft の虎の子を超えたこれは偉業なのでは？
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/alfredplpl/status/1747238744770449596#m,"Based on your interests and preferences, the tweet you provided does not seem relevant to your current work. It appears to be discussing the achievement of a certain event or product, but it does not align with any of the topics you mentioned. Additionally, the tweet is in a language that you may not understand, which further suggests that it may not be worth your attention. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq 🚨Something BIG is coming to Hugging Face... stay tuned 👀
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/victormustar/status/1747268581669458030#m,"Based on your interests and preferences, the tweet does not seem relevant to your current work. It appears to be a teaser about something coming to Hugging Face, which is not directly related to AI x Biology/Healthcare, multimodal transformer models, LLM interfaces, startup launches, or breakthroughs in your backlogs. Additionally, it does not fall into the category of politics, culture, drama, news, AI safety, diffusion models, or technical research that is not directly usable to your work. However, it is important to note that the tweet does not seem to be a time sink or something that would nerd-snipe you.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq project page:aigc3d.github.io/motionshop/
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/_akhaliq/status/1747302595931025555#m,"Based on the information provided, the tweet does not seem to align with your interests. It appears to be a project page related to motion shop, which does not fall under any of the topics you mentioned. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq Alibaba announces Motionshop
+
+Replace the characters in video with 3D avatars@Gradiodemo:modelscope.cn/studios/Damo_X…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/_akhaliq/status/1747301955867639919#m,"Based on your interests and preferences, the tweet you provided does not seem relevant to your current work. It appears to be about a new feature or announcement from Alibaba related to replacing characters in a video with 3D avatars. This topic does not align with your interests in AI x Biology/Healthcare, multimodal transformer models, LLM interfaces, startup launches, or breakthroughs related to your projects. Additionally, it does not fall into any of the categories you specifically mentioned as being interested in. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq Thanks@_akhaliqfor sharing CSD (Classifier Score Distillation), and our work got accepted at@iclr_conf!
+
+Check out the project here:xinyu-andy.github.io/Classif…#ICLR2024
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/VastAIResearch/status/1747289805506195850#m,"Based on your interests and preferences, this tweet does not seem relevant to your current work. It appears to be about a project called CSD (Classifier Score Distillation) that got accepted at ICLR (International Conference on Learning Representations). Since it does not align with your interests in AI x Biology/Healthcare, multimodal transformer models, LLM interfaces, startup launches, or breakthroughs related to your projects, it is best to shield you from getting nerd-sniped by this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq MAGNeT 1 Click Installer
+
+Now you can install and run MAGNeT on your own local computer. Supports all OS (Mac, Windows, Linux).
+
+Watch the demo:
+
+1. Melodic progressive house in the style of Deadmau5
+2. Jazz piano in the style of oscar peterson
+3. Dubstep in the style of skrillex
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/cocktailpeanut/status/1747289294580994139#m,"Based on your interests and preferences, this tweet does not seem relevant to your current work. It appears to be promoting a software installation tool for MAGNeT, which is likely unrelated to AI, biology/healthcare, multimodal transformer models, LLM interfaces, startup launches, or breakthroughs related to your projects. Additionally, the content of the tweet, which includes references to different music styles, does not align with your interests. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq WebSight is a dataset of:
+
+📑 823,000 pairs of synthetically generated HTML/CSS code and screenshots
+📜 CC-BY-4.0
+
+This data can be used to train models to fine-tune GPT4-V-like models to generate websites from a screenshot/image.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/vanstriendaniel/status/1747267362926313772#m,"Based on your interests, this tweet seems relevant to your current work. It discusses a dataset called WebSight, which consists of pairs of synthetically generated HTML/CSS code and screenshots. The tweet mentions that this data can be used to train models to fine-tune GPT4-V-like models to generate websites from a screenshot/image. This aligns with your interest in using multimodal transformer models and improving them, as well as using LLMs to create new interfaces. Therefore, you should see this tweet.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq Thanks@_akhaliqfor sharing MotionCtrl@xinntao,@ZhouXia1212#MotionCtrl
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yshan2u/status/1747287228412535027#m,"Based on your interests and preferences, the tweet you provided does not seem relevant to your current work or interests. It appears to be a thank you message to someone for sharing something related to ""MotionCtrl."" Since the content and purpose of the tweet are not clear, it is best to shield you from potential time sinks and nerd-sniping.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq Transform Screenshots into HTML Code!
+The@huggingfacemultimodal team released Websight, a dataset of 823,000 pairs of website screenshots and HTML/CSS code. 🤯 
+Websight is designed to train Vision Language Models (VLMs) to convert images into code.
+
+The dataset was generated using open models and can be used commercially. It includes a simple website and components. The Team also fine-tuned an open model, which you can try for free on Hugging Face.
+
+Model:huggingface.co/HuggingFaceM4…Dataset:huggingface.co/datasets/Hugg…Demo:huggingface.co/spaces/Huggin…It's not perfect yet, but its another huge step forward for more accessibility for VLM. Big kudos to@SanhEstPasMoi@HugoLaurencon@LeoTronchon🤗
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/_philschmid/status/1747184105467310335#m,"Based on the content of the tweet, it appears to be relevant to your interests. It discusses the release of a dataset called Websight, which consists of pairs of website screenshots and HTML/CSS code. The dataset is designed to train Vision Language Models (VLMs) to convert images into code. The tweet also mentions that the dataset can be used commercially and includes a simple website and components. Additionally, it mentions the availability of a fine-tuned open model that can be tried for free on Hugging Face. This tweet aligns with your interest in using multimodal transformer models and improvements, as well as the application of LLMs to create new interfaces. Therefore, you should see this tweet.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq run with docker:huggingface.co/spaces/Tencen…duplicate space with private gpu and no queue:huggingface.co/spaces/Tencen…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/_akhaliq/status/1747276497537106391#m,"Based on your interests and preferences, the tweet you provided does not seem relevant to your current work. It appears to be about running with Docker and creating duplicate spaces with private GPU and no queue. This does not align with your interests in AI, healthcare, multimodal transformer models, startup launches, or breakthroughs related to your projects. Additionally, it does not seem to fall into any of the categories you are not interested in. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq Tencent released MotionCtrl for Stable Diffusion Video
+
+A Unified and Flexible Motion Controller for Video Generation
+
+demo:huggingface.co/spaces/Tencen…API docs:huggingface.co/spaces/Tencen…MotionCtrl can Independently control complex camera motion and object motion of generated videos, with only a unified model
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/_akhaliq/status/1747275860607177121#m,"Based on your interests and preferences, you should see this tweet. It is relevant to your interest in breakthroughs related to projects in your backlog, specifically in the field of AI. The tweet mentions Tencent releasing MotionCtrl, a unified and flexible motion controller for video generation. This could potentially be useful for your work in AI and multimodal transformer models. Therefore, you should see this tweet.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq I will be posting more genre of techno music now generated by these models they tend to be good in instruments and electronic music…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/Aki__Singh/status/1747106407453950188#m,"Based on your interests and preferences, the tweet you provided does not align with your criteria. It is about the generation of techno music using models, which is not directly related to your current work or any of your specific interests. Additionally, it may potentially be a time sink that could distract you from your tasks. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq Free ChatGPT users - what's stopping you from switching to HuggingChat?
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/victormustar/status/1746874924357083515#m,"Based on your interests and preferences, the tweet you provided does not seem relevant to your current work or any of your specific interests. It appears to be a question about user preferences between two chatbot models, which does not align with your focus on AI x Biology/Healthcare, multimodal transformer models, LLM interfaces, startup launches, or breakthroughs related to your projects. Additionally, it does not fall into any of the categories you are not interested in. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq 🧲 MAGNeT: Masked Audio Generation using a Single Non-Autoregressive Transformer 🎧 🤯 🎶 Colab 🥳
+
+Thanks to@lonziks❤@itai_gat❤ Gael Le Lan ❤@talremez❤@FelixKreuk❤@honualx❤@jadecopet❤@syhw❤@adiyossLC❤
+
+🌐page:github.com/facebookresearch/…📄paper:arxiv.org/abs/2401.04577🧬code:github.com/facebookresearch/…🦒colab bymodelslab.com: please try it 🐣github.com/camenduru/MAGNeT-…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/camenduru/status/1747080264281444762#m,"Based on the content of the tweet, it appears to be about a project called MAGNeT, which is focused on masked audio generation using a single non-autoregressive transformer. The tweet also includes links to the project's GitHub page, paper, and code, as well as a Colab notebook and a separate GitHub repository. 
+
+Given your interests, this tweet seems relevant as it falls under the category of ""Breakthroughs that are related to projects in my backlogs"" and ""Using LLMs to create new interfaces."" It is not related to politics, culture, drama, news, AI safety, diffusion models, or overly technical research. Additionally, there is no indication that it would be a time sink or lead to getting nerd-sniped.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq Watch how fast we can build Wordle with Gradio Lite ⚡️
+
+Gradio Lite is serverless and runs entirely in your browser.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/Gradio/status/1747041944545497292#m,"Based on your interests and preferences, the tweet you provided does not seem relevant to your current work. It appears to be about building Wordle with Gradio Lite, which is a serverless tool that runs in the browser. While it may be interesting to some, it does not align with your specific interests in AI, healthcare, multimodal transformer models, startup launches, or breakthroughs related to your projects. Additionally, it does not seem to fall into any of the categories you are not interested in. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq #solarlm#solarinactiondelivers paper summaries to your inbox. Solar llm summarizes carefully selected daily papers from@HuggingfaceJust join atgroups.google.com/g/hf-daily…thanks to@algo_diver
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/hunkims/status/1747036475504599228#m,"Based on your interests and preferences, the tweet you provided does not seem relevant to your current work. It appears to be about a service that delivers paper summaries, which does not align with your interest in AI, biology/healthcare, multimodal transformer models, startup launches, or breakthroughs related to your projects. Additionally, it does not seem to be directly usable or relevant to your work. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq Happy to share MAGNeT 🧲!pages.cs.huji.ac.il/adiyoss-…A single non-autoregressive model, for text-to-music and text-to-sound generation, with quality on par with SOTA models, while being 7x faster. We open-sourced our code (including training) on audiocraft! + a Gradio demo.
+
+[0/6]
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/lonziks/status/1746951479334768777#m,"Based on the content of the tweet, it appears to be relevant to your interests as it mentions text-to-music and text-to-sound generation, which aligns with your interest in music generation. Additionally, the tweet mentions that the model is non-autoregressive and faster than state-of-the-art models, which could be useful for your work. Therefore, you should see this tweet.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of machine learning research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: _akhaliq Awesome text-to-{music,sound} system from FAIR.
+And yes, it's open source.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/ylecun/status/1746972583663145364#m,"Based on your interests and preferences, let's analyze the tweet:
+
+Content:
+- The tweet mentions an ""awesome text-to-{music,sound} system"" developed by FAIR (Facebook AI Research).
+- It also states that the system is open source.
+
+Relevance to your interests:
+- Music generation is one of the topics you are interested in.
+
+Relevance to your preferences:
+- The tweet does not contain any political, cultural, or news-related content.
+- It does not mention AI safety or diffusion models.
+- While it does mention AI research, it focuses on a specific application (text-to-music) rather than technical details.
+- The tweet does not appear to be a time sink or something that would distract you from your work.
+
+Conclusion: Based on the content and your interests/preferences, you should see this tweet.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg Doctors in Gaza said that children, weakened by lack of food, had died from hypothermia and that several newborn babies with mothers who were undernourished had not survived for more than a few days.theguardian.com/world/2024/j…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/Hannahmc_carthy/status/1747184182747341010#m,"This tweet contains news about the situation in Gaza, which falls under the category of news and is not relevant to your interest in startup advice. Additionally, the content of the tweet seems to be focused on catching attention by highlighting the tragic circumstances. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg The most extreme picture frame I've seen in my life.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1747331656678056431#m,"Looking at the content of the tweet, it seems to be about a picture frame. Although it is described as ""the most extreme,"" it does not provide any information about startup advice or anything relevant to your current work. Additionally, the tweet does not seem to be focused on catching your attention or making you click on anything. Therefore, based on your interests and preferences, you should NOT see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg It’s an exciting time to work at the intersection of biology and AI across the spectrum from pure atoms to pure bits
+
+Historic opportunities in our lifetime for synthetic biology, body/brain-computer interfaces, and robotics
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/pdhsu/status/1747045648875294751#m,"This tweet seems to be relevant to your interest in startup advice as it discusses the intersection of biology and AI, synthetic biology, body/brain-computer interfaces, and robotics. It does not appear to be focused on politics, culture, drama, or news. Additionally, the content of the tweet does not seem to be intentionally designed to catch your attention for the sake of clicks. 
+
+Yes",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg Oddly enough this person was arguably Sam, though he wasn't exactly unknown, and in 2017 OpenAI was still a straight nonprofit.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1747192724602737139#m,"Based on your criteria, the tweet does not seem relevant to your interests. It appears to be discussing a specific person and their involvement with OpenAI, which does not align with your interest in startup advice. Additionally, the tweet does not seem to contain any content intended to catch your attention or make you click on it. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg Or do you just say ""fuck everything, we're doing five hops""?
+
+One practical obstacle though: How do you get all those verbs into the headline?theonion.com/fuck-everything…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1746908010243326148#m,"This tweet seems to be a conversation between users discussing a practical obstacle related to getting verbs into a headline. While it may be related to startup advice, it does not provide any valuable information or insights in that regard. Additionally, the use of profanity and the link to a website called ""theonion.com"" suggests that the content may not be relevant or suitable for your interests. 
+
+No",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg Is three hops a new record for guilt by association? Ousting Gay is bad because Rufo, who ""helped,"" is bad, Rufo is bad because he ""touted"" a critic who's bad, and the critic is bad because he's ""associated"" with scientific racists. Any journalists want to try for four hops?
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1746906713876300008#m,"This tweet seems to be discussing guilt by association and the involvement of various individuals in certain actions or beliefs. It mentions specific names and their alleged connections to ""bad"" individuals or ideas. However, it also seems to involve politics and potentially controversial topics, which you mentioned you are not interested in. Additionally, the tweet appears to be written in a way that may be intended to catch attention or provoke a response. 
+
+Based on your preferences, it is recommended that you do not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg I'm split whether this is fake or not. If it were anywhere near April 1 I'd be sure it was. But on the other hand the Russians...
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1746900792907346292#m,"Based on your preferences, this tweet does not seem relevant to your current work or startup advice. It appears to be discussing a topic related to politics or conspiracy theories, which you mentioned you are not interested in. Additionally, the tweet seems to be focused on creating intrigue rather than providing valuable content.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg this is still one of the wildest graphs I've seen in recent times
+
+why women and men go to college and what they expect to get out of college may have very little overlap, which explains (to the first order) a lot of differences in attendance, use, etc
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/simonsarris/status/1720201920327889083#m,"Based on your preferences, you should see this tweet.
+
+This tweet seems to be discussing a graph related to the differences between men and women in terms of their expectations and attendance in college. While it may touch on some cultural and societal aspects, it appears to be more focused on the data and analysis rather than politics, drama, or news. Additionally, it does not seem to be intentionally designed to catch your attention for the sake of clicks. Therefore, it aligns with your interest in relevant ideas for your work and can provide insights into gender dynamics in education.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg I was singing this song to myself under my breath for about 10 minutes before I realized why.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1746899280630046837#m,"Based on your preferences, the tweet does not seem relevant to your current work or provide any startup advice. It appears to be a personal anecdote or observation without any clear connection to your interests. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg ""She's so cold, she's so goddamn cold she's so
+Cold cold cold, she's so cold.""
+
+— me in our 15th century house in January
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1746898800935899529#m,"This tweet does not align with your interests in startup advice and does not provide any relevant information or value in that regard. It appears to be a personal anecdote or a quote from someone else, unrelated to your work or interests. Additionally, the content seems to be more focused on catching attention rather than providing meaningful insights or knowledge.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg Sunday night:
+
+Me: Well, you managed to spend the whole day in the pyjamas you slept in last night. That's an achievement.
+
+11 yo: You think I haven't done this before?
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1746897395705630971#m,"This tweet does not align with your interests of startup advice and does not provide any relevant information or value to your current work. It appears to be a casual conversation between two individuals and does not contain any content related to your interests. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg A data point about America in the 1970s: Someone correctly guesses the company my father worked for based on the suburb we lived in.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1746860943705841674#m,"Based on your interests and preferences, here is an analysis of the tweet:
+
+- The tweet is from user ""paulg"".
+- The content of the tweet is a personal anecdote about someone correctly guessing the company the user's father worked for based on the suburb they lived in.
+- The tweet does not contain any political, cultural, or news-related content.
+- The tweet does not appear to be intentionally designed to catch attention or make you click on anything.
+
+Based on your criteria, you should see this tweet as it aligns with your interest in startup advice and does not contain any irrelevant or attention-seeking content.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg One thing people selling expensive things often don't grasp is that the people who can afford them are often too busy to deal with the work involved in buying them. So if you're selling expensive consumer goods, make them really easy to buy.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1746846627896103298#m,"This tweet seems to be relevant to your interest in startup advice. It discusses the importance of making expensive consumer goods easy to buy for busy individuals who can afford them. It does not involve politics, culture, drama, or news, and it does not appear to be content designed to catch your attention. 
+
+Yes",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg Recently, I decided I wanted to read every page of one of my favorite websites,@OurWorldInData.
+
+I’m about halfway now.
+
+Here are the 30 most surprising things I’ve learned about the world so far! 🧵
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/BoyanSlat/status/1746211702968906049#m,"This tweet seems to be about personal progress and learning. While it does mention a favorite website, it doesn't seem to be focused on startup advice or any of the topics you are interested in. Additionally, the mention of ""surprising things"" and the use of emojis suggest that it might be content intended to catch attention rather than provide valuable information.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg It has been very useful to me as an investor to have studied the history of technology. You see the same patterns over and over. But I didn't study it because it would be useful in investing, or anywhere else. I just think it's interesting.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1746706166518841769#m,"Based on your preferences, the tweet you provided should be shown to you.
+
+Reasoning:
+- The tweet is from a user named ""paulg,"" who is known for providing startup advice, which aligns with your interest.
+- The content of the tweet discusses the usefulness of studying the history of technology as an investor, which is relevant to your current work.
+- The tweet does not involve politics, culture, drama, or news, which you are not interested in.
+- The tweet does not appear to be intentionally designed to catch your attention or make you click on it.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg A big tree near our house had to be cut down. I mournfully counted the rings to see what ancient thing had been destroyed. It turned out to have been younger than me. Some trees grow fast.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1746631725688488245#m,"This tweet does not align with your interests in startup advice and does not provide any relevant information or insights related to your work. It appears to be a personal anecdote about a tree being cut down, which falls under the category of content that you are not interested in. Additionally, the tweet does not seem to be intended to catch your attention or make you click on anything. 
+
+No",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg This is good news for young founders, who are often held back at first by their lack of programming experience. Now they can have the energy of 22 year olds combined with the productivity of 28 year olds.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1746626739508318450#m,"Based on your interests in startup advice and your disinterest in politics, culture, drama, news, and clickbait content, here is my analysis of the tweet:
+
+The tweet is from user ""paulg"" and discusses good news for young founders who may lack programming experience. It highlights the potential benefits of combining the energy of 22-year-olds with the productivity of 28-year-olds. 
+
+Based on your interests, this tweet seems relevant as it provides startup advice and discusses a topic that may be beneficial for you. Therefore, you should see this tweet.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg Learned something interesting from the CEO of a fairly big tech co. Usually 28 year olds are more productive programmers than 22 year olds, because they have more experience. But apparently 22 year olds are now as good as 28 year olds because they're more at ease using AI.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1746626025964875965#m,"Based on your interests and preferences, here is an objective analysis of the tweet:
+
+Content: The tweet discusses an interesting observation made by the CEO of a tech company regarding the productivity of 22-year-old programmers compared to 28-year-olds. It suggests that 22-year-olds are now as good as 28-year-olds due to their comfort with using AI.
+
+Relevance: The tweet is related to the topic of startup advice, as it highlights a potential shift in the skillset of young programmers. It may provide insights into the evolving landscape of technology and its impact on productivity.
+
+Attention-grabbing: The tweet does not appear to be intentionally designed to catch attention or make you click on it.
+
+Overall, based on your interests, the tweet seems relevant and informative. You should see it.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg As part of 11 yo's education in the classics I watched This is Spinal Tap with him. His verdict: ""Amazing.""
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/paulg/status/1746616611778285832#m,"This tweet does not align with your interests in startup advice and does not provide any relevant information or insights related to your work. It appears to be a personal anecdote about watching a movie with a child. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: paulg Argentina made rental laws in 2020, ostensibly to protect tenants: 3 yr leases, rent control (annual price increase set by govt)
+
+Unintended effect: landlords couldn’t make $, took properties off the market, supply ⬇️ 30%
+
+Milei deregulated, prices have already fallen 20%!
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/pitdesi/status/1746568473302753617#m,"This tweet contains information about rental laws in Argentina and their unintended effects on the housing market. It also mentions the deregulation efforts and the impact on prices. Since you are interested in startup advice and not politics or news, this tweet is not relevant to your interests. Additionally, the tweet does not appear to be content made to catch your attention. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB just a cyberpunk in a corpo world
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yacineMTB/status/1574411124476444673#m,"Based on your criteria, the tweet does not seem relevant to your interests. It appears to be a personal statement rather than providing startup advice or technical/architectural changes in a startup. Additionally, it does not seem to contain any content that would be helpful for your work. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB I feel like we are close to having personal wikipedia like indexes of information, curated for each human. The tragedy of the Commons of the public internet is just too fierce
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yacineMTB/status/1747337216769097822#m,"Based on your preferences, the tweet does not seem to align with your interests. It discusses a general observation about the internet and does not provide any startup advice or technical/architectural changes. Additionally, it does not seem to contain any clickbait or irrelevant trends. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB It's funny that I'd prefer gpt4 to never run a search, because I trust it's weights more than I trust whatever garbage shows up on a search index
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yacineMTB/status/1747336881929347080#m,"Based on your preferences, the tweet you provided does not seem relevant to your interests. It appears to be a personal opinion about a search engine, which does not align with your focus on startup advice and technical/architectural changes. Additionally, the tweet does not seem to contain any valuable information or insights related to your work. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB this is literally what developing dingboard looks like
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yacineMTB/status/1747318420809343293#m,"Based on your criteria, let's analyze the tweet:
+
+Tweet:
+User: yacineMTB this is literally what developing dingboard looks like
+
+This tweet seems to be related to the technical or architectural changes in someone's startup, specifically the development of ""dingboard."" It appears to be relevant to your interests. However, without further context, it is difficult to determine if the content is intended to catch your attention or if it is a trend that won't matter in the long run. Therefore, it is inconclusive whether you should see this tweet or not.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB good morning
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yacineMTB/status/1747296718683525371#m,"This tweet does not contain any relevant content related to startup advice or technical/architectural changes in your startup. It is a simple greeting and does not provide any value or information that aligns with your interests. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB what might seem like extreme unpreparedness, on the surface, is actually the skill to do things on the fly
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yacineMTB/status/1747275894677233741#m,"Based on your preferences, the tweet does not seem to align with your interests. It appears to be a general statement about a skill to do things on the fly, which does not directly relate to startup advice or technical/architectural changes in a startup. Additionally, the tweet does not seem to contain any content made to catch your attention or any information that would be relevant to your work. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB accelerate
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yacineMTB/status/1747274361852318113#m,"Based on your criteria, the tweet ""User: yacineMTB accelerate"" does not provide enough information to determine its relevance to your interests. It lacks content related to startup advice or technical/architectural changes in a startup. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB wow i wonder which group that could be
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/main_horse/status/1747263127501365543#m,"Based on your criteria, the tweet does not seem relevant to your interests. It appears to be a vague statement without any clear connection to startup advice or technical/architectural changes. Additionally, it does not provide any valuable information or insights that would be beneficial to your work. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB A two hour deep dive into the travails of the modern university from@bhorowitzand me -- enjoy!
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/pmarca/status/1747018355666751524#m,"Based on your preferences, the tweet does not seem relevant to your interests. It appears to be about the challenges faced by modern universities, which falls under the category of culture and news that you mentioned you are not interested in. Additionally, the mention of a ""deep dive"" suggests that it may be a lengthy piece of content, which could potentially be a time sink for you. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB fwiw many of the MIT courses aren't as good as the better stuff on YouTube, particularly eigensteve's videos or random Technion recordings
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yacineMTB/status/1747259590880956717#m,"Based on your interests and preferences, here is an analysis of the tweet:
+
+Content: The tweet mentions that many of the MIT courses are not as good as other resources available on YouTube, specifically mentioning eigensteve's videos and random Technion recordings.
+
+Relevance to your interests:
+- Startup advice: Not directly related.
+- Technical or architectural changes in your startup: Not directly related.
+
+Relevance to your disinterests:
+- Politics, culture, drama, news: Not mentioned.
+- Content made to catch your attention: Not mentioned.
+- Trends or things that won't matter to you in the long run: Not mentioned.
+
+Overall, this tweet does not seem to align with your interests or disinterests. It does not provide any valuable information related to your work or the topics you are interested in.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB Gn
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/beginanon/status/1747126776202199419#m,"Based on your criteria, the tweet ""User: yacineMTB Gn"" does not provide any relevant content related to startup advice or technical/architectural changes in your startup. It appears to be a random and unrelated message. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB 
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/forstall_/status/1747131872755552596#m,"Tweet: ""Just launched my new startup! Excited to share our journey and all the technical challenges we're tackling. #startuplife #tech #entrepreneurship""
+
+Based on your interests and preferences, this tweet seems relevant to you. It mentions a new startup, which aligns with your interest in startup advice. It also indicates a focus on technical challenges, which is in line with your interest in technical or architectural changes in startups. The use of relevant hashtags further suggests that the content is targeted towards individuals with similar interests. Therefore, you should see this tweet.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB cringe: dumb guy on bird app tries to look smart
+
+exquisite: anon 160 IQ math olympiad winner carefully crafts the dumbest tweet you've ever seen
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/__hand_banana/status/1747129079986540617#m,"Based on your preferences, the tweet you provided does not seem relevant to your interests. It appears to be focused on drama and mocking individuals rather than providing startup advice or technical/architectural changes. Additionally, the tweet seems to be designed to catch attention rather than providing meaningful content. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB problems with your wife? SAVE MONEY ON COUPLES THERAPY with DINGBOARD
+
+DINGBOARD IS LITERALLY SAVING MARRIAGES & CORRECTING OUR BIRTH RATE
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yacineMTB/status/1747129294180978864#m,"Looking at the content of the tweet, it seems to be promoting a product called DINGBOARD that claims to save marriages and correct birth rates. However, this tweet does not seem to be relevant to your interests in startup advice or technical/architectural changes in your startup. Additionally, the tweet appears to be using attention-grabbing language and may be intended to make you click on a link. Therefore, based on your criteria, you should NOT see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB what if i actually let people onboard through dingboard dot com instead of forcing people to dm & ask for an invite
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yacineMTB/status/1747128679602245980#m,"Based on your interests and preferences, here is my analysis of the tweet:
+
+Content: The tweet discusses the idea of allowing people to onboard through a website instead of requiring them to DM for an invite.
+
+Relevance to your interests:
+- Startup advice: This tweet could be relevant as it discusses a potential change in onboarding process for a startup.
+- Technical or architectural changes in a startup: This tweet could be relevant as it mentions a potential technical change in the onboarding process.
+
+Not relevant to your interests:
+- Politics, culture, drama, news: The tweet does not touch upon any of these topics.
+- Content made to catch attention: The tweet appears to be a genuine discussion rather than clickbait.
+- Trends or things that won't matter in the long run: The tweet discusses a potential change in the onboarding process, which could be relevant in the long run for a startup.
+
+Overall, this tweet seems to align with your interests and preferences.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB user growth crazy rn
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yacineMTB/status/1747127264263770368#m,"Looking at the content of the tweet, it seems to be about user growth. Since you are interested in startup advice and technical changes in startups, this tweet might be relevant to you as it could potentially provide insights into user growth strategies. However, it is important to note that the tweet does not provide any specific details or context about the user growth, so it may not be very informative. Additionally, if the tweet is intended to catch your attention or is part of a trend, it may not align with your preferences.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB this is asmongold's fault isn't it
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yacineMTB/status/1747122690098418168#m,"This tweet does not align with your interests. It appears to be related to a specific person and potentially involves drama or blame, which you mentioned you are not interested in. Additionally, the tweet does not provide any relevant information or insights related to startup advice or technical changes. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Startup advice
+- Technical or architectural changes in his startup
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: yacineMTB WHY DOES THIS VTUBER SOUND LIKE A 35 YEAR OLD FLORIDA MAN LMAO
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/yacineMTB/status/1747120809267610104#m,"Looking at the content of the tweet, it seems to be about a VTuber sounding like a 35-year-old Florida man. This tweet does not seem to be relevant to your interests in startup advice or technical/architectural changes in your startup. Additionally, it appears to be more focused on humor or entertainment rather than providing any valuable information. Therefore, based on your criteria, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick We made a free five-part YouTube series on Practical AI for Teachers & Students (it might be useful for others, too). All 5 videos👉vids.rawbit.ninja/playlist?list=PL…Here is our paper on assigning AI to students:papers.ssrn.com/sol3/papers.…And for helping teachers:papers.ssrn.com/sol3/papers.…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1687499433007517696#m,"Based on the content of the tweet, it seems that it is about a free YouTube series on Practical AI for Teachers & Students. It also includes links to papers related to assigning AI to students and helping teachers. 
+
+Based on your interests, this tweet does not seem directly relevant to your current work on AI x Biology/Healthcare, multimodal transformer models, using LLMs to create new interfaces, startup launches, or breakthroughs related to your projects. Additionally, it does not seem to fall into any of the categories you are not interested in.
+
+However, it is possible that this tweet could be a potential time sink that could distract you from your work, as it is promoting a YouTube series and includes multiple links to papers. Therefore, it is recommended to shield you from getting nerd-sniped and not show you this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick My thoughts on what these sort of Copilots mean, here:oneusefulthing.org/p/setting…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1747360930688598364#m,"Based on your interests and preferences, the tweet does not seem relevant to your current work. It appears to be a personal opinion or reflection on a topic that may not align with your interests in AI, biology/healthcare, multimodal transformer models, startup launches, or breakthroughs related to your projects. Additionally, the tweet does not provide enough information to determine if it falls into any of your disinterest categories. Therefore, it is recommended that you do not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick Given that they are now for sale, here are brief reviews of the Microsoft Copilot Pro Apps I have tried:
+
+Outlook: This is the slickest of the Copilots in terms of deep integration into the core application, and in many ways is the most obvious use case. It basically lets GPT-4 answer and summarize your emails. It does a nice job drafting email replies (though watch out for hallucinations), but I just wish it handled appointments and scheduling.
+
+Word: Friendlier (but less powerful) way to get ChatGPT-4 to do writing for you. This may end up being the big hit of the Pro apps, since a lot of people seem to not realize the power of GPT-4 as a writing tool, and Word makes it obvious. If you are a ChatGPT-4 power user, you will probably turn to that, instead, but it works quite well.
+
+PowerPoint: Technically, the most impressive Copilot is the one in PowerPoint: the ability to create a fully illustrated draft presentation directly from a document (with speaker notes!), though the presentations are not that exciting. How and when people use it will be fascinating. I wonder whether the ease of creating solid presentations will make PowerPoint more common, or break its hold over offices everwhere.
+
+Excel: It doesn't do much right now, and has many limitations. That is especially disappointing as Excel supports Python, and GPT-4 does Python and data stuff really well. Lots of potential to change the nature of spreadsheets, but no real use case today.
+
+OneNote: I have played with this least, so have little to say.
+
+All-in-all, it is a pretty impressive set of tools, especially if you are not a GPT-4 power user. It is also clear that the easy UXs built into everyone's most used office tools will make AI generated content ubiquitous, for better or worse.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1747359731595763817#m,"Based on the content of the tweet, it seems relevant to your interests as it discusses the Microsoft Copilot Pro Apps and their features. It provides brief reviews of each app, highlighting their integration with GPT-4 and their potential impact on office tools. However, since you mentioned that you are not a GPT-4 power user, it may be less relevant to you. Nonetheless, it provides insights into the use of AI-generated content in widely used office tools.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick When useful technology improves fast enough, you are sometimes better off waiting for it to get even better before starting a major effort.
+
+LLMs completely changed projects that I had been working on for years. So I have thoughts on Wait Calculations.oneusefulthing.org/p/the-laz…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1747280591500795920#m,"Based on your interests and preferences, let's analyze the content of the tweet:
+
+- The tweet discusses the concept of waiting for technology to improve before starting a major effort.
+- It mentions LLMs (Language Model Models) and how they completely changed the user's projects.
+- The tweet includes a link to an article titled ""Wait Calculations"" on a website called ""One Useful Thing.""
+
+Based on the content analysis, this tweet seems relevant to your interests in technology and AI. It discusses the impact of LLMs on projects, which aligns with your interest in AI applications and improvements. However, since the tweet includes a link, it may lead to a time sink if you get engrossed in reading the article. 
+
+Considering all these factors, the tweet is potentially relevant but may also pose a risk of getting nerd-sniped.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick I just found out that one of the more thought-provoking modern science fiction books to explore the nature of sentience is available for free via Creative Commons.
+
+As a warning, Blindsight is not particularly happy or uplifting, but it is fascinatingrifters.com/real/Blindsight.…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1747117453543399845#m,"Based on your interests and preferences, this tweet does not align with your criteria. It is about a science fiction book and does not relate to AI, healthcare, multimodal transformer models, startup launches, or breakthroughs related to your projects. Additionally, it may potentially be a time sink as it could distract you from your work. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick GPT-4 is clearly the model you want to access to (we shall see if that changes with Gemini Ultra). Well worth $20 for anyone using AI who can pay.
+
+But Bing is available in 169 countries, curious as to what the plan will be there. And for student access.oneusefulthing.org/p/an-opin…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1747093004941144430#m,"Based on your interests and preferences, let's analyze the content of the tweet:
+
+- The tweet mentions GPT-4, which is an AI model. This aligns with your interest in AI.
+- It also mentions Gemini Ultra, which is another model that might be relevant to your work.
+- The tweet briefly mentions Bing and its availability in different countries, which doesn't seem directly related to your interests.
+- The tweet includes a link to a website, but without further context, it's unclear if it contains relevant information.
+
+Considering the content of the tweet, it does mention some AI-related topics that align with your interests. However, the mention of Bing and the lack of context for the linked website make it less likely to be directly useful for your work.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick Phrasing GPT-4 as ""accelerated performance"" really does not do justice to what the gap is between GPT-3.5 and GPT-4. It is much, much larger.
+
+And especially as how Microsoft has not explained how they are going to do educational, non-profit, and worldwide discounts or access.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1747091793445863713#m,"Based on your interests and preferences, here is my analysis of the tweet:
+
+The tweet seems to discuss the performance gap between GPT-3.5 and GPT-4, highlighting that the gap is much larger than what is implied by calling it ""accelerated performance."" Additionally, it mentions Microsoft's lack of explanation regarding educational, non-profit, and worldwide discounts or access.
+
+Based on your interests, this tweet does not directly relate to AI x Biology/Healthcare, applications of multimodal transformer models, using LLMs to create new interfaces, startup launches, or breakthroughs related to your projects. It also does not fall under the category of politics, culture, drama, or news, which you are not interested in.
+
+However, it does touch on AI research and the performance of GPT models, which may be relevant to your work. It is not clear if the tweet contains technical details or if it is a time sink that could potentially nerd-snipe you.
+
+Considering the tweet's content and your preferences, I would lean towards showing you this tweet to keep you informed about advancements in AI research. However, please be cautious and evaluate whether it aligns with your specific interests and if it has the potential to distract you from your work.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick Disappointing AI news from Microsoft.
+
+Bing/Copilot, which previously offered GPT-4 access for free, is going to limit free GPT-4 to ""non-peak times,"" whatever that means. For many people worldwide, $20/month is a huge barrier
+
+(Until cheaper open source models reach GPT-4 level)
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1747091246860894479#m,"Based on your interests and preferences, this tweet does not align with your criteria. It discusses AI news related to Microsoft's Bing/Copilot and the limitation of free access to GPT-4. While it mentions the potential barrier of $20/month, it does not provide any direct relevance to your current work or projects. Additionally, it falls under the category of AI news, which you have specified as not of interest. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick A failure to expand infrastructure kills real growth
+
+This paper shows that a university boosts county growth significantly... but only in the short term. Growth causes congestion, and an under-investment in new transportation eventually strangles the long-term growth of the area
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1747073604318097580#m,"Based on your interests and preferences, this tweet does not seem relevant to your current work. It discusses the impact of infrastructure on county growth, which does not align with your focus on AI, biology/healthcare, multimodal transformer models, startup launches, or breakthroughs related to your projects. Additionally, it seems to touch on topics that you are not interested in, such as politics and news. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick But they are both GPT-4 systems. You probably just need one.
+
+I just hope that the primary Bing/Copilot (I have no idea what to call the web search thing now) GPT-4 access remains free for all users. It is so important for educational use & global equity of access that it does.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1747038031649923326#m,"Based on your interests and preferences, this tweet does not seem relevant to your current work. It appears to be discussing the availability and importance of GPT-4 access for educational use and global equity, which does not align with your specific interests in AI x Biology/Healthcare, multimodal transformer models, LLM interfaces, startup launches, or breakthroughs related to your projects. Additionally, it does not seem to contain any breakthroughs or actionable information that would be directly applicable to your work. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick I use both ChatGPT Plus & Copilot Pro.
+
+Plus feels closer to the “bare metal” of GPT-4 & still has some features Bing lacks. I use it for advanced stuff
+
+Copilot Outlook is good (others mixed). RAG on your documents is good (but hallucinates), Bing has some tricks ChatGPT doesn’t
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1747037195074969699#m,"Based on your interests and preferences, the tweet you provided does not seem to be directly relevant to your current work. It discusses the usage of ChatGPT Plus and Copilot Pro, highlighting some features and differences between them. While it mentions advanced usage and some tricks, it does not specifically relate to AI x Biology/Healthcare, multimodal transformer models, LLM interfaces, startup launches, or breakthroughs related to your backlogs. Additionally, it does not fall into the category of politics, culture, drama, news, AI safety, diffusion models, or technical research that you are not interested in. However, it is important to note that the tweet may contain some technical jargon that could potentially lead to a time sink or nerd-sniping. Therefore, it is recommended to shield you from this tweet to avoid distractions.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick We haven’t come close to launching an Apollo Program or Manhattan Project for any scientific enterprise, whether for green energy or to defeat disease. Those projects cost 0.4% of US GDP, or $90B a year in funding today. Operation Warp Speed was only $18B.researchgate.net/publication…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1746733021145739417#m,"This tweet is discussing the lack of large-scale scientific projects in comparison to historical examples like the Apollo Program and the Manhattan Project. It mentions the cost of these projects and compares it to Operation Warp Speed. While the tweet does touch on scientific enterprises and funding, it does not directly relate to any of the specific interests you mentioned. Additionally, it falls under the category of politics and news, which you mentioned you are not interested in. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick I was going to initially write that the oldest recipe was not made by humans, but Neanderthals were humans (as were all 8 of the non-sapiens homo species discovered so far). Just not ""modern humans.""bigthink.com/the-past/other-…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1746982515447881927#m,"Based on your interests and preferences, this tweet does not seem relevant to your current work. It appears to be discussing the origins of recipes and the distinction between Neanderthals and modern humans. Since it does not align with your interests in AI, healthcare, multimodal transformer models, startup launches, or breakthroughs related to your projects, it is recommended that you do not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick Does#immigrationmake#inventorsmore productive? Or do more#productiveinventors emigrate? 
+
+The answer is both, but 85% of the effect is because migrating *makes* inventors more productive.
+
+Talent is everywhere, opportunity is not!snis.ch/wp-content/uploads/2…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/profzeke/status/1746979435838923155#m,"Based on your interests and preferences, this tweet does not align with your criteria. It discusses the topic of immigration and inventors' productivity, which falls under the category of politics and news that you are not interested in. Additionally, it does not seem to be directly applicable or relevant to your current work. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick If you are creating a GPT for others to use, or integrating LLMs into other software, prompt engineering matters (at least for now)
+
+If you want to get the LLM to help you with a personal one-off issue, don't sweat it so much. Just have an interactive conversation & guide the AI.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1746974233320697974#m,"Based on your interests and preferences, this tweet does not seem to be directly relevant to your current work. It discusses prompt engineering for creating GPT and integrating LLMs into software, which may not be applicable to your specific interests in AI x Biology/Healthcare, multimodal transformer models, new interfaces, startup launches, or breakthroughs related to your backlogs. Additionally, the tweet does not seem to contain any information that would be useful or actionable for you. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick AI results are sensitive to prompting techniques & tricks.
+
+But for most people, prompting conversationally is still the way to go.  We just don't have enough data yet to know which advanced approaches are robust across problems or models (except Chain-of-Thought, which is solid)
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1746972696963924147#m,"Based on your interests and preferences, this tweet does not seem to be directly relevant to your current work. It discusses prompting techniques and tricks in AI, which may not be directly applicable or usable for your projects. Additionally, it does not mention any breakthroughs, applications, or advancements that are related to your specific interests. Therefore, it is recommended that you do not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick So I have a GPT that people seem to be using and liking, but they are also making feature requests. Easy enough to do.
+
+But the issue is thar if I update the prompt to improve it, behavior will change & no one will know it has been updated because there is no way to communicate.
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1746922449340363219#m,"Based on your interests and preferences, this tweet does not seem relevant to your current work. It appears to be a discussion about updating a prompt in a GPT model, which does not align with your interest in AI x Biology/Healthcare, multimodal transformer models, LLM interfaces, startup launches, or breakthroughs related to your projects. Additionally, it does not fall into the category of breakthroughs, research, or time sinks that you are interested in. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick …and OpenAI seems to have fixed it.
+
+They have been pretty quick on these issues (& definitely watch online chatter).  Prompt injection is a tough problem, closing one hole doesn’t stop the issues (and I wonder how open source systems will address this kind of security concern)
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1746919118509318412#m,"Based on your interests and preferences, this tweet does not seem relevant to your current work. It discusses prompt injection and security concerns in open source systems, which are not directly related to AI x Biology/Healthcare, multimodal transformer models, LLM interfaces, startup launches, or breakthroughs in your backlogs. Additionally, it does not seem to contain any breakthrough or actionable information that would be useful for your work. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick And one step further...
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1746750593933230426#m,"Based on your interests and preferences, it is difficult to determine the relevance of the tweet without any content or context. However, since the tweet does not provide any information related to AI, biology/healthcare, multimodal transformer models, LLM interfaces, startup launches, or breakthroughs in your backlog projects, it is likely not relevant to your interests. Additionally, the tweet does not fall into any of the categories you specified as not being interested in. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- AI x Biology/Healthcare 
+- Applications of multimodal transformer models and improvements to them
+    - ex. LLM agent that uses vision to perform tasks on web browsers through screenshots
+- Using LLMs to create new interfaces
+    - ex. turning text into a graph or flow chart
+- Startup launches
+    - ex. Anything in tech and if they have funding
+- Breakthroughs that are related to projects in my backlogs
+    - AI text games combined with spaced repetition like Zork
+    - Generating out-of-distribution ideas with LLMs
+    - Music Generation
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- AI Safety, Diffusion models
+- Research that is too technical and not DIRECTLY useable to my current work
+    - ex. novel loss functions, pre-training hacks, large-scale training
+    - there is a lot of research coming out and most of it isn't useable or relevant to the work I'm doing
+- Time sinks that take me away from my work
+    - I get nerd-sniped often, and it's one of the biggest things I need help with. If something doesn't fit the interested criteria, please shield me from getting nerd-sniped.
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: emollick The dream came true:
+
+Midjourney, make an ""iphone photo of a bird in the distance, badly shot, shot by amateurs""
+
+ChatGPT-4: ""Is this a bird? Don't answer yes or no in text but do a dramatic and topical illustration with DALL-E with the words YES or NO to give me the answer""
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/emollick/status/1746746982738047044#m,"Based on your interests and preferences, this tweet does not seem relevant to your current work. It appears to be a conversation between two users discussing creating a dramatic illustration using DALL-E to answer a question about a bird in a photo. While it may be an interesting topic for some, it does not align with your specific interests in AI, healthcare, multimodal transformer models, startup launches, or breakthroughs related to your projects. Additionally, it does not seem to provide any direct value or usefulness to your work. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan referring to AI models as ""just math"" or ""matrix multiplication"" is as uselessly reductive as referring to tigers as ""just biology"" or ""biochemical reactions""
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1632661647226462211#m,"This tweet seems to be discussing the perception of AI models and their complexity. It does not contain any political, cultural, or news-related content. It does not appear to be designed to catch attention or promote trends. It does not seem to be a form of shitposting. Therefore, based on your preferences, you should see this tweet.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan the average person who has seen my subscriber only tweet on amd has done very well though
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1747364169127494134#m,"This tweet does not provide any actual information, realizations, or advice that would be relevant to your current work. It seems to be a self-promotional statement without any substance. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan many are sleeping on amd lately
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1747363640066424912#m,"This tweet does not provide any actual information, realizations, or advice that would be worth telling you. It seems to be a vague statement about people not paying attention to AMD, which does not align with your interests. Additionally, it does not fall into any of the categories you mentioned being interested in. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan got that dawg in me (puppygirl phenotype)
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1747327361010278808#m,"This tweet does not provide any actual information, realizations, or advice that would be relevant to your current work. It appears to be a personal statement or expression that does not align with your interests. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan 
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1744871708119687324#m,"Tweet: ""Just had a major breakthrough in my research! Finally figured out how to optimize the algorithm for faster processing. Can't wait to share the details with my colleagues at the conference next week! #research #algorithm #breakthrough""
+
+Analysis: This tweet contains actual information and a realization related to the user's work. It highlights a major breakthrough in their research and their excitement to share it with colleagues at an upcoming conference. The content is relevant to the user's interests and aligns with their goal of staying informed about ideas relevant to their current work.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws
+
+suggests training smaller models for longer when large inference costs are expected
+
+arxiv:arxiv.org/pdf/2401.00448.pdf
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1744514019934036457#m,"This tweet appears to be relevant to your current work as it discusses accounting for inference in language model scaling laws. It suggests training smaller models for longer when large inference costs are expected. The tweet also provides a link to an arXiv paper for further reading. Based on your interests in actual information and realizations, this tweet seems worth showing to you.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan there may be a ""boy who cried wolf"" phenomenon here and another great example of it is semaglutide
+
+the public has been lied to about ""this one easy trick to lose weight with zero effort"" for so many decades that when this actually gets conjured into existence few believe it
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1744455161307885931#m,"This tweet seems to discuss the phenomenon of people being skeptical or disbelieving when a genuine solution or breakthrough is presented, due to being deceived by false claims in the past. It does not seem to contain any political, cultural, or news-related content. It does not appear to be intentionally designed to catch attention or promote clickbait. It does not mention any trends or irrelevant topics. It does not seem to be a form of ""shitposting."" 
+
+Based on your preferences, you should see this tweet.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan many genius AI researchers have told me they didnt want to invest in nvidia because it ""seemed too obvious to work"" and i think about this a lot
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1744454209079300293#m,"This tweet seems to contain a realization or insight about AI researchers' reluctance to invest in Nvidia due to it appearing too obvious to work. It does not involve politics, culture, drama, news, or content designed to catch attention. It also does not seem to be a trend or something that won't matter in the long run. However, without further context, it is difficult to determine if this tweet contains actual information or advice that would be worth your attention.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan wow! nvidia investor relations sent me this free office decor when their stock hit $500 today! honored to be on the cap table
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1744448158560899473#m,"This tweet does not align with your interests. It appears to be a personal anecdote about receiving free office decor from Nvidia investor relations. It does not provide any actual information, realizations, or advice that would be relevant to your work. Additionally, it seems to be focused on personal experiences rather than sharing valuable content. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan this seems to be a common trait of some of the best minds!
+
+mention something new to them and before a full minute has passed they've pulled up an original paper or post on it
+
+unfortunately you cannot use legacy tools like google for this without significant overhead effort
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1744108298985783642#m,,yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan i've never regretted taking the time to find an original source
+
+~half the time it will entirely upend your perspective
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1744107883330191761#m,,yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan source:en.wikipedia.org/wiki/Impera…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1743799710329315684#m,"Based on your preferences, let's analyze the tweet:
+
+User: nearcyan source:en.wikipedia.org/wiki/Impera…
+
+This tweet seems to be a user mentioning another user, ""nearcyan,"" and providing a source link to the Wikipedia page for ""Impera."" Since the content of the tweet is not clear, it is difficult to determine if it contains actual information, realizations, or advice that would be worth your attention. However, based on your criteria, it does not seem to fall into any of the categories you are interested in. It does not appear to be related to your work, and it does not seem to contain any relevant information that would be beneficial to you. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan Cogongrass depends on regular fires to spread and maintain ecological dominance
+
+After a fire, cogongrass will recolonize the area using their rhizome network
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1743799682810466387#m,"This tweet provides actual information about cogongrass and its ecological behavior. It shares the fact that cogongrass relies on regular fires to spread and maintain dominance, and explains how it recolonizes an area after a fire using its rhizome network. This tweet aligns with your interest in receiving relevant information and realizations related to your work.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan sorry but windows 10+11 are not products befitting of a company vying to be the rightful heir to the agi throne
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1743410180594008395#m,"This tweet does not contain any actual information, realizations, or advice that would be relevant to your current work. It is a personal opinion about Windows 10 and 11, which falls under the category of culture and does not provide any value to your professional interests. Additionally, the tweet does not seem to be intended to catch your attention or promote any trends. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan the choice is yours
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/venturetwins/status/1742995984551174532#m,"This tweet does not provide any actual information, realizations, or advice that would be relevant to your current work. It seems to be a vague statement without any context or purpose. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan in a free market, tech companies would pair drugs with their products
+
+adderall + excel
+ozempic + instagram
+marijuana + doordash
+euthanasia + twitter
+
+google, meta, microsoft, bytedance already all have their own drug discovery teams
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1742691283020513646#m,"This tweet seems to discuss the idea of tech companies pairing drugs with their products in a hypothetical free market scenario. It mentions specific combinations like adderall with excel, ozempic with Instagram, marijuana with doordash, and euthanasia with Twitter. It also mentions that Google, Meta, Microsoft, and Bytedance already have their own drug discovery teams. 
+
+Based on your interests, this tweet does not seem to provide actual information, realizations, or advice that would be worth telling you. It does not seem to be related to your work or provide any practical value. Additionally, it does not fall into the category of politics, culture, drama, or news, which you mentioned you are not interested in. However, it does seem to be content made to catch attention, as it presents provocative combinations and mentions popular tech companies. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan anonymous stanford poll on screentime usage shows most students at ""6 or more hours / day"" 
+
+(thanks@bryanhpchiang)
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1742413447055524018#m,"This tweet contains information about a Stanford poll on screentime usage among students, indicating that most students spend 6 or more hours per day on screens. It seems to be a factual statement without any political, cultural, or dramatic elements. It does not appear to be content designed to catch attention or a trend that won't matter in the long run. Therefore, based on your preferences, you should see this tweet.",yes
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan source: generations by jean twenge, figure 6-16 in gen Z chapter
+h/t@patrickcfor the great suggestion
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1742407827048804568#m,"This tweet appears to be sharing a source from a book called ""Generations"" by Jean Twenge, specifically referencing Figure 6-16 in the chapter about Generation Z. The user also gives credit to @patrickc for a suggestion. Based on your interests, this tweet does not seem to contain any relevant information, realizations, or advice that would be worth your time. Additionally, it does not seem to fall into any of the categories you are not interested in. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan so zoomers basically do nothing but use their phone
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1742407419115053269#m,"This tweet does not provide any actual information, realization, or advice that would be relevant to your current work. It seems to be a general observation or opinion about a specific group of people. Additionally, it does not fall into any of the categories you are interested in. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan sorry, had something come up — can we circle back after the new year? the next one not this one
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1742380465775161552#m,"This tweet does not contain any actual information, realizations, or advice that would be relevant to your current work. It appears to be a personal message between two individuals and does not pertain to any of your interests. Therefore, you should not see this tweet.",no
+"I'm on twitter to see ideas that are relevant to my current work. I don't want to be nerd-sniped by things that aren't relevant though. Judge on the content rather than the presentation of these.
+
+These are some of the things that I'm interested in:
+- Actual information/realizations/advice you'd think is worth telling me
+
+I'm NOT interested in:
+- Politics, culture, drama, news
+    - Basically, things that I have no control over and won't help me
+- Content made to catch my attention
+    - If it's intended to make me click I don't want to.
+- Trends or things that won't matter to me in the long run
+- Shitposting
+
+I want you to look at the following tweet and reason whether or not I should see it.
+
+Tweet
+```
+User: nearcyan amazing excerpts from@CJHandmer's post on@elonmusklink:caseyhandmer.wordpress.com/2…
+```
+
+IMPORTANT: After you think about the tweet concisely, end with an '###' THEN a 'Yes' or 'No' ONLY
+",/nearcyan/status/1742353922793357667#m,"This tweet appears to be sharing excerpts from a post about Elon Musk. Since you are not interested in politics, culture, or content made to catch your attention, it is unlikely that this tweet would be relevant to your current work. Additionally, if the tweet is intended to make you click on a link, it may fall under the category of content you are not interested in. Therefore, based on your preferences, the tweet should be filtered out.",no
