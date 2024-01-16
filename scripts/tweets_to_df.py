@@ -37,4 +37,3 @@ csv_file_path = '/Users/danielgeorge/Documents/work/ml/small-stuff/twitter-llm-f
 df.to_csv(csv_file_path, index=False)
 
 csv_file_path
-
