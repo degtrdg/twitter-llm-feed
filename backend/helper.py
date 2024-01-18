@@ -6,7 +6,7 @@ import pandas as pd
 import requests
 from prompts import sys_prompt, prompt
 from utils import memoize_to_file
-dotenv.load_dotenv("/Users/danielgeorge/Documents/work/ml/small-stuff/twitter-llm-feed/backend/.env")
+dotenv.load_dotenv("./.env")
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
@@ -40,7 +40,7 @@ def evaluate_tweet(prompt):
         raise
 
 if __name__ == "__main__":
-    file_path = '/Users/danielgeorge/Documents/work/ml/small-stuff/twitter-llm-feed/backend/following_list/following_list.xlsx'
+    file_path = './following_list/following_list.xlsx'
     df = pd.read_excel(file_path)
     twitter_handle_column = df['Twitter Handle']
     positive_prompt_column = df['Positive Prompt']
@@ -77,5 +77,5 @@ if __name__ == "__main__":
     df_results = pd.DataFrame(results)
 
     # Save the DataFrame to a CSV file
-    output_file_path = '/Users/danielgeorge/Documents/work/ml/small-stuff/twitter-llm-feed/backend/results.csv'
+    output_file_path = './backend/results.csv'
     df_results.to_csv(output_file_path, index=False)

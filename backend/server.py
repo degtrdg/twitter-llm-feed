@@ -14,10 +14,10 @@ app = Flask(__name__)
 CORS(app)
 
 nitter_url = "https://nitter.rawbit.ninja/"
-chromium_path = "/Users/danielgeorge/Library/Caches/ms-playwright/chromium-1091/chrome-mac/Chromium.app/Contents/MacOS/Chromium"
-dotenv_path = "/Users/danielgeorge/Documents/work/ml/small-stuff/twitter-llm-feed/backend/.env"
-file_path = '/Users/danielgeorge/Documents/work/ml/small-stuff/twitter-llm-feed/backend/following_list/following_list.xlsx'
-output_file_path = '/Users/danielgeorge/Documents/work/ml/small-stuff/twitter-llm-feed/backend/results.csv'
+chromium_path = "/Users/tk541/Library/Caches/ms-playwright/chromium-1084/chrome-mac/Chromium.app/Contents/MacOS/Chromium"
+dotenv_path = "./.env"
+file_path = './following_list/following_list.xlsx'
+output_file_path = './results.csv'
 server = 'http://127.0.0.1:5000'
 
 dotenv.load_dotenv(dotenv_path)
@@ -107,7 +107,7 @@ def evaluate_tweets():
         df_results = pd.DataFrame(results)
 
         # Save the DataFrame to a CSV file
-        output_file_path = '/Users/danielgeorge/Documents/work/ml/small-stuff/twitter-llm-feed/backend/results.csv'
+        output_file_path = './backend/results.csv'
         df_results.to_csv(output_file_path, index=False)
 
         return jsonify(results) 
