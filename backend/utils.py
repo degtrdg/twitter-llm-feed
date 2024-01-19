@@ -30,6 +30,6 @@ def memoize_to_file(file_path='memoize_cache.pkl'):
     return decorator
 
 if __name__ == '__main__':
-    with open('/Users/danielgeorge/Documents/work/ml/small-stuff/twitter-llm-feed/backend/memoize_http', 'rb') as file:
+    with open('./memoize_http', 'rb') as file:
         cache = pickle.load(file)
         print(cache)

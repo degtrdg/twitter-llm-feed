@@ -1,8 +1,11 @@
-beautifulsoup4==4.12.2
-Flask==1.1.2
-openai==0.27.8
+beautifulsoup4==4.12.3
+Flask==3.0.1
+Flask_Caching==2.1.0
+Flask_Cors==4.0.0
+gradio==4.14.0
+openai==1.8.0
 pandas==2.0.3
 playwright==1.27.1
 python-dotenv==1.0.0
-requests==2.31.0
+Requests==2.31.0
 retry==0.9.2

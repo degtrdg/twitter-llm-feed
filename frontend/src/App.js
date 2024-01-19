@@ -43,23 +43,23 @@ function App() {
   };
 
   return (
-    <div>
-      <Header
-        onSwitchView={handleViewChange}
-        onFilterChange={handleFilterChange}
-        onToggleShowReason={toggleShowReason}
-        currentView={currentView}
-        showReason={showReason}
-      />
-      <TweetList
-        tweets={
-          currentView === "unfiltered" ? unfilteredTweets : filteredTweets
-        }
-        currentView={currentView}
-        showReason={showReason}
-        filterAnswer={filterAnswer}
-      />
-    </div>
+      <div className="flex flex-col items-center">
+        <Header
+          onSwitchView={handleViewChange}
+          onFilterChange={handleFilterChange}
+          onToggleShowReason={toggleShowReason}
+          currentView={currentView}
+          showReason={showReason}
+        />
+        <TweetList
+          tweets={
+            currentView === "unfiltered" ? unfilteredTweets : filteredTweets
+          }
+          currentView={currentView}
+          showReason={showReason}
+          filterAnswer={filterAnswer}
+        />
+      </div>
   );
 }
 
