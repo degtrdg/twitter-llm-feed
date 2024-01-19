@@ -27,9 +27,9 @@ def evaluate_tweet(prompt):
         max_tokens=1500)
         text = response.choices[0].message.content
         split_text = text.split("###")
-        reasoning = split_text[0].strip() if len(split_text) == 2 else ""
+        reasoning = split_text[0].strip() if len(split_text) == 2 else text
         answer = split_text[-1].strip()
-        answer = 'yes' if 'yes' in answer.strip().lower() else 'no'
+        answer = 'yes' if 'yes' in answer.lower() or (len(split_text) == 1 and 'yes' in text.lower()) else 'no'
         return {
             'reasoning': reasoning,
             'answer': answer

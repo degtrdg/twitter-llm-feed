@@ -8,7 +8,7 @@ These are some of the things that I'm interested in:
 I'm NOT interested in:
 {negative_prompt}
 
-I want you to look at the following tweet and reason whether or not I should see it.
+I want you to look at the following tweet and reason whether or not I should see it. Be very critical and sure if you decide to reccomend something to the user. They don't have time to waste.
 
 Tweet
 ```

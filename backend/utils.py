@@ -22,7 +22,7 @@ def memoize_to_file(file_path='memoize_cache.pkl'):
                 with open(file_path, 'wb') as file:
                     pickle.dump(cache, file)
             else:
-                print("Cache hit!")
+                print(f"Cache hit for {file_path}!")
             return cache[key]
 
         return wrapper
