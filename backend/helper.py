@@ -6,7 +6,9 @@ import pandas as pd
 import requests
 from prompts import sys_prompt, prompt
 from utils import memoize_to_file
-dotenv.load_dotenv("./.env")
+# dotenv.load_dotenv("./.env")
+dotenv.load_dotenv("/Users/danielgeorge/Documents/work/ml/small-stuff/twitter-llm-feed/backend/.env")
+
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
