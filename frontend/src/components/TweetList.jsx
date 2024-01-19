@@ -20,6 +20,7 @@ function TweetList({ tweets, currentView, showReason, filterAnswer }) {
                 key={index}
                 tweet={tweet}
                 showReason={showReason}
+                answer={tweet.Answer.toLowerCase()}
               />
             ))}
     </div>
